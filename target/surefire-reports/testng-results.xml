@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="73092" started-at="2017-07-13T13:41:07Z" finished-at="2017-07-13T13:42:20Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="73092" started-at="2017-07-13T13:41:07Z" finished-at="2017-07-13T13:42:20Z">
+      <class name="com.sample.mavenproject.SecondTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.sample.mavenproject.SecondTest@d94a8b]" name="verifySearch" duration-ms="31277" started-at="2017-07-13T19:11:49Z" finished-at="2017-07-13T19:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.sample.mavenproject.SecondTest -->
+      <class name="com.sample.mavenproject.FirstTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.sample.mavenproject.FirstTest@12fad11]" name="verifySearch" duration-ms="41791" started-at="2017-07-13T19:11:07Z" finished-at="2017-07-13T19:11:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.sample.mavenproject.FirstTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54429" started-at="2017-06-20T10:14:31Z" finished-at="2017-06-20T10:15:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54429" started-at="2017-06-20T10:14:31Z" finished-at="2017-06-20T10:15:25Z">
+      <class name="com.sample.mavenproject.FirstTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.sample.mavenproject.FirstTest@132ec19]" name="verifySearch" duration-ms="54271" started-at="2017-06-20T15:44:31Z" finished-at="2017-06-20T15:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.sample.mavenproject.FirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
